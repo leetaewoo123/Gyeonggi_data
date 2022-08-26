@@ -16,10 +16,9 @@
 <details>
   <summary>집주 호우로 인한 피해</summary>
    <div markdown="0" align="center">       
-     <br>
+     <br><br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EC%A7%91%EC%A4%91%ED%98%B8%EC%9A%B0.png">
-     <br>
-     <br>
+     <br> <br>
    </div>
 </details>
 
@@ -27,17 +26,19 @@
   <summary>태양광 시설물이 산사태 발생의 직접적인 원인이 되지 않을까?</summary>
    <div markdown="0" align="center">       
      <br>
-     <img src="사진첨부">
-     <br>
+       <text> :black_small_square: 강원도 횡성군, 충북 제천에서 발생한 산사태가 태양광과 관련이 있다는 지적이 나옴</text>
+       <br><br>
+     <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%ED%83%9C%EC%96%91%EA%B4%91.png">
+     <br><br>
    </div>
 </details>
 
 <details>
   <summary>안심할 수 없는 경기도 산사태 발생</summary>
      <div markdown="0" align="center">       
-       <br>
+       <br><br>
        <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EC%95%88%EC%8B%ACX%EA%B2%BD%EA%B8%B0%EB%8F%84.png">
-       <br>
+       <br><br>
      </div>
 </details>
 
@@ -46,7 +47,7 @@
      <div markdown="0">       
        <br>
        <text> :black_small_square: 인공시설물들이 많이 분포한 지역은 산사태가 많이 발생할 것이다.</text>
-       <br>
+       <br><br>
      </div>
 </details>
 
@@ -66,18 +67,18 @@
 <details>
   <summary>자료 탐색</summary>
      <div markdown="0">       
-       <br>
+       <br><br>
        <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EC%9E%90%EB%A3%8C%ED%83%90%EC%83%89.png">
-       <br>
+       <br><br>
      </div>
 </details>
 
 <details>
   <summary>데이터 탐색 및 전처리</summary>
      <div markdown="0">       
-       <br>
+       <br><br>
        <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%90%EC%83%89_%EB%B0%8F_%EC%A0%84%EC%B2%98%EB%A6%AC.png">
-       <br>
+       <br><br>
      </div>
 </details>
 
@@ -95,7 +96,7 @@
      <text>:black_small_square: 2020년 강수량이 전년인 2019년도보다 높음 -> 2020년의 강수량 기준으로 산사태 발생 건수 및 면적을 분석</text>
      <br><br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EA%B0%95%EC%88%98%EB%9F%89_%EB%B9%84%EA%B5%90.png">
-     <br>
+     <br><br>
    </div>
   </details>
   <details>
@@ -104,7 +105,7 @@
      <text>:black_small_square: 안성 > 인천 > 용인 > 가평 > 양평 > 연천 순으로 산사태 피해가 큼</text>
      <br><br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EA%B0%95%EC%88%98%EB%9F%89_%EC%82%B0%EC%82%AC%ED%83%9C_%EA%B1%B4%EC%88%98.png">
-     <br>
+     <br><br>
      <br>
    </div>
   </details>
@@ -129,8 +130,7 @@
      <text>:black_small_square: 가평, 양평이 연관성 있음</text>
      <br><br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EC%82%B0%EC%82%AC%ED%83%9C_%ED%84%B0%EB%84%90.png">
-     <br>
-     <br>
+     <br><br>
    </div>
 </details>
 
@@ -141,7 +141,7 @@
      <div markdown="0" align="center">       
      <br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/Train_Test.png">
-     <br>
+     <br><br>
    </div>
   </details>
   <details>
@@ -149,7 +149,7 @@
      <div markdown="0" align="center">       
      <br>
      <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/OLS_%EB%AA%A8%EB%8D%B8.png">
-     <br>
+     <br><br>
    </div>
   </details>
   <details>
