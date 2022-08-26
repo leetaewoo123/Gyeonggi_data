@@ -1,10 +1,10 @@
 <div align="center">
-  <h3>경기도 데이터 산업인력 양성교육 프로젝트</h3>
-  <h5>경기도 산사태 원인 파악과 해결방안 제시</h5>
+  <h1>경기도 데이터 산업인력 양성교육 프로젝트</h1>
+  <h3>경기도 산사태 원인 파악과 해결방안 제시</h3>
   <p>
 </div>
 
-<br>
+<br><br><br>
 
 ## 0. 팀원 소개
 - 황지영(팀장), 신동후, 심양관, 이연희, 이태우
@@ -185,7 +185,7 @@
        :black_small_square: 어두운 색의 지역일수록 예산을 더 투입해야함<br>
      </text>
      <br>
-     <img src="">
+     <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EC%82%AC%EB%B0%A9%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0.png">
      <br><br>
    </div>
 </details>
@@ -210,8 +210,8 @@
        :black_small_square: 산사태 위험지역에 친환경 바이오 폴리머 제방 설치<br><br>
        :black_small_square: 친환경 바이오 폴리머는 반나절이면 시공가능하고 기존의 건설비용 30%, 유지비용 70% 절감 가능
      </text>
-     <br>
-     <img src="">
+     <br><br>
+     <img src="https://github.com/leetaewoo123/Gyeonggi_data_Project/blob/main/readme/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8F%B4%EB%A6%AC%EB%A8%B8.png">
       <br><br>
    </div>
 </details>
