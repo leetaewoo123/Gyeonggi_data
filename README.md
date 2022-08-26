@@ -5,9 +5,12 @@
 </div>
 
 <br>
-##  0. 팀원 소개
+
+## 0. 팀원 소개
 - 황지영(팀장), 신동후, 심양관, 이연희, 이태우
-- 
+
+<br><br>
+
 ## 1. 제안 개요
 
 <details>
@@ -57,6 +60,8 @@
 </details>
 <br>
 
+<br><br>
+
 ## 2. 활용 데이터
 <details>
   <summary>자료 탐색</summary>
@@ -77,6 +82,8 @@
 </details>
 
 <br>
+
+<br><br>
 
 ## 3. 분석
 
@@ -163,6 +170,8 @@
   </details>
 </blockquote></details>
 
+<br><br>
+
 ## 4. 활용방안 및 기대효과
 
 <details>
@@ -170,9 +179,9 @@
    <div markdown="0" align="center">    
      <br>
      <text>
-       :black_small_square: 사방사업 예산을 분석해서 산사태가 많이 발생하는 지역에 예산을 더 투입<br>
-       :black_small_square: 고양, 부천, 수원, 성남, 용인 -> 연천, 포천, 안성 -> 파주, 여주 순으로 사방사업 지원많이 받음<br>
-       :black_small_square: 포천, 광주, 고양, 시흥, 수원, 성남, 광주, 여주가 산사태 발생횟수에 비해 사방사업 지원을 많이 받음 -> 예산을 낭비하고 있을 가능성
+       :black_small_square: 사방사업 예산을 분석해서 산사태가 많이 발생하는 지역에 예산을 더 투입<br><br>
+       :black_small_square: 고양, 부천, 수원, 성남, 용인 -> 연천, 포천, 안성 -> 파주, 여주 순으로 사방사업 지원많이 받음<br><br>
+       :black_small_square: 포천, 광주, 고양, 시흥, 수원, 성남, 광주, 여주가 산사태 발생횟수에 비해 사방사업 지원을 많이 받음 -> 예산을 낭비하고 있을 가능성<br><br>
        :black_small_square: 어두운 색의 지역일수록 예산을 더 투입해야함<br>
      </text>
      <br>
@@ -186,7 +195,7 @@
    <div markdown="0" align="center">    
      <br>
      <text>
-       :black_small_square: 산사태 위험지역 근처에 인공시설물 제한, 벌금 부과<br>
+       :black_small_square: 산사태 위험지역 근처에 인공시설물 제한, 벌금 부과<br><br>
        :black_small_square: 공사 중 길을 뚫어 놓은 후 방치하거나 과도한 벌목, 태양광 발전소 안전 관리에 대한 법규 강화
      </text>
      <br>
@@ -198,7 +207,7 @@
    <div markdown="0" align="center">    
      <br>
      <text>
-       :black_small_square: 산사태 위험지역에 친환경 바이오 폴리머 제방 설치<br>
+       :black_small_square: 산사태 위험지역에 친환경 바이오 폴리머 제방 설치<br><br>
        :black_small_square: 친환경 바이오 폴리머는 반나절이면 시공가능하고 기존의 건설비용 30%, 유지비용 70% 절감 가능
      </text>
      <br>
@@ -206,6 +215,8 @@
       <br><br>
    </div>
 </details>
+
+<br><br>
 
 ## 5. 데이터 / 아이디어 출처
 - <a href="https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1311">산사태 피해현황</a>
