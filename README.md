@@ -193,12 +193,12 @@
 <details>
   <summary>인공시설물에 대한 법규 강화</summary>
    <div markdown="0" align="center">    
-     <br>
+     <br><br>
      <text>
        :black_small_square: 산사태 위험지역 근처에 인공시설물 제한, 벌금 부과<br><br>
        :black_small_square: 공사 중 길을 뚫어 놓은 후 방치하거나 과도한 벌목, 태양광 발전소 안전 관리에 대한 법규 강화
      </text>
-     <br>
+     <br><br>
    </div>
 </details>
 
